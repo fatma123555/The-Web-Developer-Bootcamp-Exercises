@@ -1,0 +1,36 @@
+#top-row-middle {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+#middle-row-middle {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+#bottom-row-middle {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+#middle-row-left {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+#middle-row-right {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+table {
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
